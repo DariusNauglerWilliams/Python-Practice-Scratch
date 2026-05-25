@@ -1,2 +1,1 @@
-if len(firstword) != len(secondword):
-        return False
+ return sorted(firstword) != sorted(secondword)
